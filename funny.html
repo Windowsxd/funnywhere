@@ -73,7 +73,7 @@ function increase() {
 }
 function funny() {
   funnyt.style.left = gri(-increment, increment);
-  funnyt.style.top = gri(-increment, increment);
+  funnyt.style.top = (window.innerHeight/2)-50 + gri(-increment, increment);
   funnyt.style.transform = 'rotate('+gri(-rotation, rotation)+'deg)'
 }
 
