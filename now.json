@@ -1,6 +1,6 @@
 {
   "cleanUrls": true,
   "redirects": [
-    { "source": "/.*", "destination": "/funscript.js" }
+    { "source": "/", "destination": "/funscript.js" }
   ]
 }
