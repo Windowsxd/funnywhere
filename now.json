@@ -1,6 +1,6 @@
 {
-  "redirects": [
-    { "source": "/", "destination": "/home.html" }
-  ],
-  "cleanUrls": true
+  "cleanUrls": true,
+  "routes": [
+    { "src": "/.*", "dest": "/home.html"}
+  ]
 }
