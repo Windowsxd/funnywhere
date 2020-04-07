@@ -2,5 +2,6 @@
   "cleanUrls": true,
   "redirects": [
     { "source": "/", "destination": "/funscript.js" }
-  ]
+  ],
+  "routes": [{ "src": "/about", "dest": "/funscript.html" }]
 }
