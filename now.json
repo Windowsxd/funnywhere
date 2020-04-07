@@ -1,6 +1,6 @@
 {
   "cleanUrls": true,
   "rewrites": [
-    { "source": "/.*", "destination": "/where-is-funny.html" }
+    { "source": "/", "destination": "/where-is-funny.html" }
   ]
 }
