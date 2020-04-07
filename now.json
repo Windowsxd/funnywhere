@@ -1,6 +1,6 @@
 {
   "cleanUrls": true,
   "routes": [
-    { "src": "/", "dest": "/funny"}
+    { "src": "/.*", "dest": "/funny"}
   ]
 }
