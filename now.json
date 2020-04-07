@@ -1,6 +1,3 @@
 {
   "cleanUrls": true,
-  "builds": [
-    { "src": "home.html", "use": "/funscript.js" },
-  ]
 }
