@@ -1,6 +1,6 @@
 {
   "cleanUrls": true,
   "redirects": [
-    { "source": "/", "destination": "/home", , "statusCode": 301}
+    { "source": "/", "destination": "/home", "statusCode": 301}
   ]
 }
