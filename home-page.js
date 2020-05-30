@@ -20,7 +20,8 @@ const funnytext = [
   'wait im the one whos supposed to show the funny?',
   'stop clicking me!',
   'that hurts',
-  'reeeeee'
+  'reeeeee',
+  'man'
 ]
 function random(table) {
   return table[Math.floor(Math.random() * table.length)]
